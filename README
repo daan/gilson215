@@ -1,0 +1,13 @@
+A python library to drive the Gilson 215 Liquid Handler/Injector
+
+We obtained a Gilson liquid handler for free through the MIT reuse list and aim to transform it into a fab@home printer.
+
+http://www.gilson.com/Products/product.asp?pID=41
+http://www.gilson.com/PDFs/pdfid73.pdf
+
+The Gilson is accessed through a serial connection in a protocol called GSIOC. The initial protocol implementation is based  on the perl code by Jo"rgen Prenzel.
+
+http://wwwuser.gwdg.de/~jprenze/lablinux/GSIOC/
+
+
+
